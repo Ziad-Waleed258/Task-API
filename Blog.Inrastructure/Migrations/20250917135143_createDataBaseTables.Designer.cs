@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Blog.Inrastructure.Migrations
 {
     [DbContext(typeof(BlogDbContext))]
-    [Migration("20250905073533_createDataBaseTables")]
+    [Migration("20250917135143_createDataBaseTables")]
     partial class createDataBaseTables
     {
         /// <inheritdoc />
@@ -20,7 +20,7 @@ namespace Blog.Inrastructure.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.19")
+                .HasAnnotation("ProductVersion", "8.0.20")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);

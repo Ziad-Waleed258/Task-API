@@ -1,0 +1,17 @@
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\bin\Debug\net8.0\Blog.Inrastructure.deps.json
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\bin\Debug\net8.0\Blog.Inrastructure.runtimeconfig.json
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\bin\Debug\net8.0\Blog.Inrastructure.dll
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\bin\Debug\net8.0\Blog.Inrastructure.pdb
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.csproj.AssemblyReference.cache
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.GeneratedMSBuildEditorConfig.editorconfig
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.AssemblyInfoInputs.cache
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.AssemblyInfo.cs
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.csproj.CoreCompileInputs.cache
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.dll
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\refint\Blog.Inrastructure.dll
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.pdb
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inrastructure.genruntimeconfig.cache
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\ref\Blog.Inrastructure.dll
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\bin\Debug\net8.0\Blog.Core.dll
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\bin\Debug\net8.0\Blog.Core.pdb
+J:\VSC\Api\DEPIBlogWebSite\Blog.Inrastructure\obj\Debug\net8.0\Blog.Inr.CCF22614.Up2Date
